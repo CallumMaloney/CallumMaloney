@@ -1,7 +1,7 @@
 ## My Name is Callum
 ## Im a Junior Software Developer from Merseyside
 
-I'm an ex Driving Instructor with a passion for anything tech!
+- I'm an ex Driving Instructor with a passion for anything tech
 
 ### Let's connect:
 
