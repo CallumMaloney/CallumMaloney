@@ -1,4 +1,4 @@
-## My Name is Callum
+## Hi! I'm Callum
 ## Im a Junior Software Developer from Merseyside
 
 - 🚗 I'm an ex Driving Instructor. My transferable skills include problem solving & mentoring!
