@@ -18,6 +18,10 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 
+## Stats:
+
+<img src = "https://github-readme-stats.vercel.app/api/?username=CallumMaloney&count_private=true&theme=tokyonight&showicons=true"></td>
+
 
 
 <!--
