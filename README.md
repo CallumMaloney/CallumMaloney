@@ -2,7 +2,7 @@
 ## Im a Junior Software Developer from Merseyside
 
 - 🚗 I'm an ex Driving Instructor. My transferable skills include problem solving & mentoring!
-- 💻 I'm passionate about anything tech & am currently working on projects using JavaScript & React
+- 💻 I'm passionate about anything tech & I am currently working on projects using JavaScript & React
 - 📫 Reach me by e-mail: callummaloney2697@outlook.com
 
 ### Let's connect:
