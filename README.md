@@ -2,7 +2,7 @@
 ## Im a Junior Software Developer from Merseyside
 
 - 🚗 I'm an ex Driving Instructor. My transferable skills include problem solving & mentoring!
-- 💻 I'm passionate about anything tech & I am currently working on projects using JavaScript & React
+- 💻 I'm currently working on Neighbourhood Nomad, a travel app that caters to people wanting local reviews
 - 📫 Reach me by e-mail: callummaloney2697@outlook.com
 
 ### Let's connect:
