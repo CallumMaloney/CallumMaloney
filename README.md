@@ -2,7 +2,6 @@
 ## Im a Junior Software Developer from Merseyside
 
 - 🚗 I'm an ex Driving Instructor. My transferable skills include problem solving & mentoring!
-- 💻 I'm currently learning C#
 - 📫 Reach me by e-mail: callummaloney2697@outlook.com
 
 ### Let's connect:
